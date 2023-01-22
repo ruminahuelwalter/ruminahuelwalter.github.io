@@ -61,6 +61,11 @@ header{
     color: #303030;
     padding-left: 20%;
     padding-right: 20%;
+
+}
+
+.dos ul li a{
+    text-decoration: none;
 }
 .aptitudes{
     width: 50%;
