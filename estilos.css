@@ -54,7 +54,7 @@ header{
 
 .dos{
     background-color: #F2F2F2;
-    height: 900px; /* 700px */
+    height: 1000px; /* 700px */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -80,7 +80,6 @@ header{
 .tech{
     height: 90px;
 }
-
 
 .tres{
     background-color: #303030;
