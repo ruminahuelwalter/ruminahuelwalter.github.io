@@ -68,6 +68,9 @@ header{
 .dos ul li a{
     text-decoration: none;
 }
+.dos p a{
+    text-decoration: none;
+}
 .aptitudes{
     width: 50%;
 }
